@@ -15,11 +15,11 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "howabsurd",
+  "name": "@howabsurd/jobber-shared",
   "author": "howabsurd",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/howabsurd/jobber-shared"
+    "url": "git+https://github.com/howabsurd/jobber-shared.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
